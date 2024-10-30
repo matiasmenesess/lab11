@@ -1,6 +1,7 @@
-//
-// Created by alumno06 on 30/10/2024.
-//
+//Integrantes:
+//1. Olivares Sarmiento, Javier Ignacio Leon
+//2. Silva Reyes, Santiago Miguel
+//3. Meneses Roncal, Matias Alonso
 #include <algorithm>
 #include <iostream>
 #include <vector>
